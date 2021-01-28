@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub! Alexa
 
 You can use the [editor on GitHub](https://github.com/alexapenwell/college-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
