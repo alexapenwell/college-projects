@@ -2,7 +2,7 @@
 
 Here I have compiled a few of the projects I have completed during my time at UNC to allow employers to get a better grasp on my technical abilities.
 
-### Data Analytics Projects
+### Data Analytics
 
 #### Project 1 : Human Freedom Index Analysis
 <a href="FP.html" title="Data Analytics Final Project">Click here to view project</a>
@@ -13,20 +13,13 @@ Here I have compiled a few of the projects I have completed during my time at UN
 
 **Skills Used:** R, logistic regression, 10 fold cross-validation, confusion matrices
 
+### Information Science
 
-# Header 1
-## Header 2
-### Header 3
+#### Project 1: Database Design for an Interior Design Company
 
-- Bulleted
-- List
+**Class: INLS 523: Database Systems I**
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
