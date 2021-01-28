@@ -2,9 +2,9 @@
 
 Here I have compiled a few of the projects I have completed during my time at UNC to allow employers to get a better grasp on my technical abilities.
 
-### Data Analytics Projects
+# Data Analytics Projects
 
-<a href="FP.html" title="Data Analytics Final Project">Data Analytics Final Project</a>
+<a h1="FP.html" title="Data Analytics Final Project">Data Analytics Final Project</a>
 
 Syntax highlighted code block
 
