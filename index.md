@@ -4,7 +4,8 @@ Here I have compiled a few of the projects I have completed during my time at UN
 
 # Data Analytics Projects
 
-<a h1="FP.html" title="Data Analytics Final Project">Data Analytics Final Project</a>
+## Project 1 : Human Freedom Index Analysis
+<a href="FP.html" title="Click here to view project">Data Analytics Final Project</a>
 
 Syntax highlighted code block
 
