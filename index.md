@@ -1,10 +1,8 @@
-## Welcome to My GitHub! Alexa
+## Welcome to My Project Repository!
 
-You can use the [editor on GitHub](https://github.com/alexapenwell/college-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here I have compiled a few of the projects I have completed during my time at UNC to allow employers to get a better grasp on my technical abilities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Data Analytics Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
