@@ -15,6 +15,10 @@ Here I have compiled a few of the projects I have completed during my time at UN
 
 ### Information Science
 
-#### Project 1: Database Design for an Interior Design Company
+#### Project 1: Database Creation for an Interior Design Company
 
 **Class: INLS 523: Database Systems I**
+
+**Project Description:** Ths semester-long database project covered the whole process of database design and development, beginning with understanding requirements and turning them into a database design, and ending with running queries in our fully functioning database. I created ER diagrams, database schemas, data dictionaries, and SQL create statements and queries.
+
+**Skills Used:** SQL, semantic data modeling, using relational models, SQL, data normalization, quality control
