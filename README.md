@@ -1,1 +1,1 @@
-# college-projects
+This repository consists of files of projects that I have completed during my undergraduate career at UNC Chapel Hill. You can view the files individually or head over to the website to find a description of each project, along with other helpful information.
