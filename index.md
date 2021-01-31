@@ -1,7 +1,7 @@
 ## Welcome to My Project Repository!
 
 ### About Me
-My name is Alexa Penwell and I am currently a student at UNC Chapel Hill working towards completing my Bachelor of Science in Statistics and Analytics with a minor in Information Systems. During my 3 years at UNC I have been taking courses focused around data analytics and information technologies with the intention of pursing a job in this skillset after graduation in December 2021. I have also completed the AWS Certified Cloud Practitioner Certification in order to increase my knowledge of cloud computing. Currently I am looking to obtain an internship for Summer 2021 to further the application of the skills I have learned at UNC. Below I have compiled a few of the projects I have completed to allow employers to get a better grasp on my technical abilities.
+My name is Alexa Penwell and I am currently a student at UNC Chapel Hill working towards completing my Bachelor of Science in Statistics and Analytics with a minor in Information Systems. During my 3 years at UNC I have been taking courses focused around data analytics and information technologies with the intention of pursing a job in this skillset after graduation in December 2021. I have also completed the AWS Certified Cloud Practitioner Certification in order to increase my knowledge of cloud computing. Currently I am looking to obtain an internship for Summer 2021 to further the application of the skills I have learned at UNC. Below I have put together a couple of the projects I have completed to allow employers to get a better grasp on my technical abilities.
 
 ### Data Analytics
 
