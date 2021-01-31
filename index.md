@@ -18,9 +18,9 @@ Here I have compiled a few of the projects I have completed during my time at UN
 #### Project 1: Database Creation for an Interior Design Company
 <a href="apenwell-P3v2.db" title="Database Creation Project">Click here to download a version of the database</a>
 
-<a href="apenwell-create.sql" title="Database Creation Project SQL Create Statements">Click here to view SQL create statements</a>
+<a href="apenwell-create.sql" title="Database Creation Project SQL Create Statements">Click here to download SQL create statements</a>
 
-<a href="P3.sql" title="Database Creation Project SQL Statements">Click here to view SQL insert and query statements</a>
+<a href="P3.sql" title="Database Creation Project SQL Statements">Click here to download SQL insert and query statements</a>
 
 **Class: INLS 523: Database Systems I**
 
