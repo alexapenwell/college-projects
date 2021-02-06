@@ -5,7 +5,7 @@
 <img align="right" width="150" src="headshot2.png">
 
 My name is Alexa Penwell and I am currently a student at UNC Chapel Hill working towards completing my Bachelor of Science in Statistics and Analytics with a minor in Information Systems. During my 3 years at UNC I have been taking courses focused around data analytics and information technologies. My intention is to purse a job utilizing a combination of these skillsets after graduation in December 2021. I have recently completed the AWS Certified Cloud Practitioner Certification in order to increase my knowledge of cloud computing. Currently I am looking to obtain an internship for Summer 2021 to further the application of the skills I have learned at UNC. Below I have put together a couple of the projects I have completed to allow employers to get a better grasp on my technical abilities. A copy of my resume can also be found 
-<a href="A_Penwell_New_Resume._Final.pdf" title="APenwellResume">here.</a>
+<a href="A_Penwell_Final_Resume.pdf" title="APenwellResume">here.</a>
 
 ### Data Analytics
 
