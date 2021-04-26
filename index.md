@@ -20,6 +20,10 @@ A copy of my resume can also be found
 
 **Skills Used:** R, logistic regression, 10 fold cross-validation, confusion matrices
 
+#### Project 2 : Staying Out of the Kitchen: An Analysis of Winners, Errors, and Other Factors that Lead to Success in Pickleball
+
+**Class: STOR 538: Sports Analytics**
+
 ### Information Science
 
 #### Project 1: Database Creation for an Interior Design Company
