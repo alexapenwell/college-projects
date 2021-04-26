@@ -21,8 +21,13 @@ A copy of my resume can also be found
 **Skills Used:** R, logistic regression, 10 fold cross-validation, confusion matrices
 
 #### Project 2 : Staying Out of the Kitchen: An Analysis of Winners, Errors, and Other Factors that Lead to Success in Pickleball
+<a href="P1_Final_Adjusted.pdf" title="Playoff Round 1 Project">Click here to view project</a>
 
 **Class: STOR 538: Sports Analytics**
+
+**Project Description:** This project was a group project that first required our team to pick a non-mainstream sport and think about what metrics we could analyze that would hopefully give a player a competitive edge. Based on what our proposed insights were, we then collected data by hand by watching YouTube videos of full matches. We then created graphs and tables to summarize our data. We used those graphs to manipulate the data in hopes of obtaining previously unexplored insights. Finally, we wrapped up the project by critiquing our data collection and analysis processes.
+
+**Skills Used:** R, data collection, metric creation, proportion tests, linear regression
 
 ### Information Science
 
@@ -35,6 +40,6 @@ A copy of my resume can also be found
 
 **Class: INLS 523: Database Systems I**
 
-**Project Description:** Ths semester-long database project covered the whole process of database design and development, beginning with understanding requirements and turning them into a database design, and ending with running queries in our fully functioning database. I created ER diagrams, database schemas, data dictionaries, and SQL create statements and queries.
+**Project Description:** This semester-long database project covered the whole process of database design and development, beginning with understanding requirements and turning them into a database design, and ending with running queries in our fully functioning database. I created ER diagrams, database schemas, data dictionaries, and SQL create statements and queries.
 
 **Skills Used:** SQL, semantic data modeling, using relational models, data normalization, quality control
