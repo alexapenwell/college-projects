@@ -20,6 +20,7 @@ A copy of my resume can also be found
 
 **Skills Used:** R, logistic regression, 10 fold cross-validation, confusion matrices
 
+
 #### Project 2 : Staying Out of the Kitchen: An Analysis of Winners, Errors, and Other Factors that Lead to Success in Pickleball
 <a href="P1_Final_Adjusted.pdf" title="Playoff Round 1 Project">Click here to view project</a>
 
