@@ -32,6 +32,7 @@ A copy of my resume can also be found
 
 #### Project 3 : NBA 2021 April 13-30: Best Models to Predict Spread, Total, and Offensive Rebounds of Games
 <a href="Playoffs_2_Paper.pdf" title="Playoff Round 2 Project">Click here to view project</a>
+
 <a href="Final_Predictions.csv" title="Final Predictions">Click here to view a csv of the generated predictions</a>
 
 **Class: STOR 538: Sports Analytics**
