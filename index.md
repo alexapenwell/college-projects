@@ -31,6 +31,15 @@ A copy of my resume can also be found
 **Skills Used:** R, data collection, metric creation, proportion tests, linear regression
 
 #### Project 3 : NBA 2021 April 13-30: Best Models to Predict Spread, Total, and Offensive Rebounds of Games
+<a href="Playoffs_2_Paper.pdf" title="Playoff Round 2 Project">Click here to view project</a>
+<a href="Final_Predictions.csv" title="Final Predictions">Click here to view a csv of the generated predictions</a>
+
+**Class: STOR 538: Sports Analytics**
+
+**Project Description:** This project was a group project that required our team to use whichever models we thought were best to generate predictions for spread, total, and offensive rebounds for each NBA game in the given time frame. We were given data and had to clean and merge the datasets to fit our needs. We then conducted basic modeling for each variable to see what other variables might be good indicators of our chosen variable. After obtaining this information during the basic modeling stage, we conducted advanced modeling in hopes of finding a model that had the least amount of error possible. Error was measured here by a model's root mean squared error (RMSE). We conducted this process for all three variables until we were satisfied with the error levels. We then used our best model to generate predictions for our games. A more detailed account of our process, as well as our actual outcomes, can be viewed in the files below.
+
+
+**Skills Used:** R, data cleaning, model comparison, linear regression, decision tree regressor, random forest regressor, support vector machine regressor
 
 ### Information Science
 
