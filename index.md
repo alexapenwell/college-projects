@@ -30,6 +30,8 @@ A copy of my resume can also be found
 
 **Skills Used:** R, data collection, metric creation, proportion tests, linear regression
 
+#### Project 3 : NBA 2021 April 13-30: Best Models to Predict Spread, Total, and Offensive Rebounds of Games
+
 ### Information Science
 
 #### Project 1: Database Creation for an Interior Design Company
